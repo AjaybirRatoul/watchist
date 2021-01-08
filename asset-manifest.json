@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/watchist/static/js/main.a66f212f.chunk.js",
-    "main.js.map": "/watchist/static/js/main.a66f212f.chunk.js.map",
+    "main.js": "/watchist/static/js/main.ace18a6f.chunk.js",
+    "main.js.map": "/watchist/static/js/main.ace18a6f.chunk.js.map",
     "runtime-main.js": "/watchist/static/js/runtime-main.05984044.js",
     "runtime-main.js.map": "/watchist/static/js/runtime-main.05984044.js.map",
     "static/css/2.8d77187f.chunk.css": "/watchist/static/css/2.8d77187f.chunk.css",
-    "static/js/2.aa50d1ff.chunk.js": "/watchist/static/js/2.aa50d1ff.chunk.js",
-    "static/js/2.aa50d1ff.chunk.js.map": "/watchist/static/js/2.aa50d1ff.chunk.js.map",
+    "static/js/2.9006487c.chunk.js": "/watchist/static/js/2.9006487c.chunk.js",
+    "static/js/2.9006487c.chunk.js.map": "/watchist/static/js/2.9006487c.chunk.js.map",
     "index.html": "/watchist/index.html",
     "static/css/2.8d77187f.chunk.css.map": "/watchist/static/css/2.8d77187f.chunk.css.map",
-    "static/js/2.aa50d1ff.chunk.js.LICENSE.txt": "/watchist/static/js/2.aa50d1ff.chunk.js.LICENSE.txt",
+    "static/js/2.9006487c.chunk.js.LICENSE.txt": "/watchist/static/js/2.9006487c.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/watchist/static/media/fontawesome-webfont.f691f37e.woff",
     "static/media/logo.792cc7bc.png": "/watchist/static/media/logo.792cc7bc.png",
     "static/media/tmdblogo.caee7457.svg": "/watchist/static/media/tmdblogo.caee7457.svg"
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.05984044.js",
     "static/css/2.8d77187f.chunk.css",
-    "static/js/2.aa50d1ff.chunk.js",
-    "static/js/main.a66f212f.chunk.js"
+    "static/js/2.9006487c.chunk.js",
+    "static/js/main.ace18a6f.chunk.js"
   ]
 }
