@@ -13,11 +13,12 @@ Watchist is a versatile web application built using React and Bootstrap that all
 
 ## Usage
 
-1. Register a new account or log in with your existing credentials. If you would just like to give it a try, hit "Try It Out" on the sign up page.
-2. Explore the extensive collection of shows and movies available.
-3. To add an item to your watchlist, click on the "Add to Watch List" button.
-4. To mark an item as watched, click on the "Add to Watched" button.
-5. Use the search functionality to find specific shows or movies.
+1. Navigate to the site (https://ajaybirratoul.github.io/watchist).
+2. Register a new account or log in with your existing credentials. If you would just like to give it a try, hit "Try It Out" on the sign up page.
+3. Explore the extensive collection of shows and movies available.
+4. To add an item to your watchlist, click on the "Add to Watch List" button.
+5. To mark an item as watched, click on the "Add to Watched" button.
+6. Use the search functionality to find specific shows or movies.
 
 ## Technologies Used
 
