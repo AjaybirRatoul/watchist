@@ -18,7 +18,6 @@ Watchist is a versatile web application built using React and Bootstrap that all
 3. To add an item to your watchlist, click on the "Add to Watch List" button.
 4. To mark an item as watched, click on the "Add to Watched" button.
 5. Use the search functionality to find specific shows or movies.
-6. Customize your profile settings to suit your preferences.
 
 ## Technologies Used
 
