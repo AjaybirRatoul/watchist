@@ -1,3 +1,34 @@
-Keep track of your favourite media or discover your next favourite movie/show!
+# <img src="/src/assets/logo.png" width="25"/> Watchist
 
-Try it out at https://ajaybirratoul.github.io/watchist/
+Watchist is a versatile web application built using React and Bootstrap that allows users to explore a vast collection of shows and movies. The app enables users to keep track of their intended watchlist by adding items to it and marking them as watched once they have been viewed. Watchist also incorporates Firebase for seamless authentication and as a reliable database to store user information.
+
+## Key Features
+
+- Browse a vast collection of shows and movies
+- Add shows and movies to your watchlist
+- Mark shows and movies as watched
+- User authentication using Firebase
+- Intuitive and user-friendly interface
+- Responsive design for seamless usage on different devices
+
+## Usage
+
+1. Register a new account or log in with your existing credentials. If you would just like to give it a try, hit "Try It Out" on the sign up page.
+2. Explore the extensive collection of shows and movies available.
+3. To add an item to your watchlist, click on the "Add to Watch List" button.
+4. To mark an item as watched, click on the "Add to Watched" button.
+5. Use the search functionality to find specific shows or movies.
+6. Customize your profile settings to suit your preferences.
+
+## Technologies Used
+
+- React
+- Bootstrap
+- Firebase (Authentication, Realtime Database)
+- [The Movie Database](https://www.themoviedb.org/)
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+Happy watching!
